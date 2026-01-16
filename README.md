@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojtarad65&theme=dracula&margin-w=15&margin-h=15&row=2&column=3" alt="manojtarad65" /></a> </p>
 
-- 💡 I’m currently working on **Study-Fuel**
+- 💡 Co-Founder @ **TOGENO**
 
-- 🌟 I’m currently learning **Next.js , React.js**
-
-- 👥 I’m looking to collaborate on **Fullstack projects**
-
-- 🤝 I’m looking for help with **Study-Fuel**
+- 🌟 I’m currently learning **Building Products !**
 
 - 📧 How to reach me **manojtarad65@gmail.com**
 
