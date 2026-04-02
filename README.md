@@ -21,12 +21,12 @@
 
 <!-- 🏢 BRAND -->
 <p align="center">
-  <img src="https://tageno.in/logo.png" height="90"/>
+  <img src="https://togeno.in/logo.png" height="90"/>
 </p>
 
 <p align="center">
   <b>Co-Founder @ TOGENO</b><br/>
-  🚀 <a href="https://tageno.in">Live Product</a>
+  🚀 <a href="https://togeno.in">Live Product</a>
 </p>
 
 ---
