@@ -14,7 +14,7 @@
 
 <!-- 👀 VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojtarad65&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ManojTarad65&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -56,8 +56,8 @@ const manoj = {
 ## 🚀 FEATURED PROJECTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=your-repo-name&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=your-repo-name-2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManojTarad65&repo=Blood-relation&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=Build-Togeno&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
