@@ -56,12 +56,11 @@ const manoj = {
 ## 🚀 FEATURED PROJECTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManojTarad65&repo=Blood-relation&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=Build-Togeno&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=Blood-relation&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=Build-Togeno&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
 ## 📊 GITHUB STATS
 
 <p align="center">
@@ -71,13 +70,8 @@ const manoj = {
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manojtarad65/manojtarad65/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 ## 🌐 CONNECT
 
