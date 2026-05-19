@@ -7,7 +7,7 @@
 <h3 align="center">⚡ Full Stack Developer • Product Engineer • Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=I+Build+Real+World+Products;From+Idea+→+Launch+→+Scale;Co-Founder+%40+TOGENO;Code.+Build.+Dominate." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=I+Build+Real+World+Products;From+Idea+→+Launch+→+Scale;Co-Founder+%40+TRODEC;Code.+Build.+Dominate." />
 </p>
 
 ---
@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <b>Co-Founder @ TOGENO</b><br/>
-  🚀 <a href="https://togeno.in">Live Product</a>
+  <b>Co-Founder @ TRODEC</b><br/>
+  🚀 <a href="https://trodec.in">Live Product</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ const manoj = {
   role: "Full Stack Developer",
   mindset: "Builder",
   specialty: "Turning ideas into scalable products",
-  mission: "Build TOGENO into a global product 🚀",
+  mission: "Build TRODEC into a global product 🚀",
   email: "manojtarad65@gmail.com"
 };
 ```
@@ -96,7 +96,7 @@ const manoj = {
 
 ## 🔥 CURRENT FOCUS
 
-- 🚀 Scaling **TOGENO**
+- 🚀 Scaling **TRODEC**
 - ⚙️ Backend & System Design
 - ⚡ Shipping fast & iterating
 - 💼 Thinking like a startup founder
