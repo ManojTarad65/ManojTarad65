@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=260&section=header&text=Manoj%20Tarad&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">⚡ Full Stack Developer • Product Engineer • Founder</h3>
+<h3 align="center">⚡ Full Stack Developer • Product Engineer • Tech Lead</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=I+Build+Real+World+Products;From+Idea+→+Launch+→+Scale;Co-Founder+%40+TRODEC;Code.+Build.+Dominate." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=I+Build+Real+World+Products;From+Idea+→+Launch+→+Scale;Co-Tech Lead+%40+TRODEC;Code.+Build.+Dominate." />
 </p>
 
 ---
@@ -21,12 +21,12 @@
 
 <!-- 🏢 BRAND -->
 <p align="center">
-  <img src="https://togeno.in/logo.png" height="90"/>
+  <img src="https://togeno.com/logo.png" height="90"/>
 </p>
 
 <p align="center">
   <b>Tech Lead @ TRODEC</b><br/>
-  🚀 <a href="https://trodec.in">Live Product</a>
+  🚀 <a href="https://trodec.com">Live Product</a>
 </p>
 
 ---
