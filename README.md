@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <b>Co-Founder @ TRODEC</b><br/>
+  <b>Tech Lead @ TRODEC</b><br/>
   🚀 <a href="https://trodec.in">Live Product</a>
 </p>
 
