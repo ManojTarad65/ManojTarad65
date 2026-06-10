@@ -21,7 +21,7 @@
 
 <!-- 🏢 BRAND -->
 <p align="center">
-  <img src="https://togeno.com/logo.png" height="90"/>
+  <img src="https://togeno.com/public/logo.png" height="90"/>
 </p>
 
 <p align="center">
