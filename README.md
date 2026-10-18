@@ -1,124 +1,211 @@
 
-<!-- 🔥 FINAL BOSS HERO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=260&section=header&text=Manoj%20Tarad&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- MANOJ TARAD // THE BUILD LAB                               -->
+<!-- Theme: Terminal Void | Neon Green | Electric Cyan           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3 align="center">⚡ Full Stack Developer • Product Engineer • Tech Lead</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=I+Build+Real+World+Products;From+Idea+→+Launch+→+Scale;Co-Tech Lead+%40+TRODEC;Code.+Build.+Dominate." />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=MANOJ.TARAD&fontSize=60&fontColor=E8FFF5&stroke=00FF9C&strokeWidth=1&animation=fadeIn&color=0:050706,45:101A19,100:062B2B" />
+
+<br/>
+
+<code>root@manoj:~# ./build-something-unexpected</code>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1900&pause=650&color=00FF9C&center=true&vCenter=true&width=680&lines=I+TURN+WEIRD+IDEAS+INTO+WORKING+SOFTWARE.;I+BUILD.+BREAK.+DEBUG.+REPEAT.;404%3A+NORMAL+DEVELOPER+NOT+FOUND.;THE+NEXT+EXPERIMENT+IS+ALREADY+IN+PROGRESS." />
+
+<br/><br/>
+
+**FULL-STACK DEVELOPER** &nbsp; / &nbsp; **PRODUCT BUILDER** &nbsp; / &nbsp; **CURIOUS BY DEFAULT**
+
+<br/><br/>
+
+<a href="https://github.com/ManojTarad65">
+<img src="https://img.shields.io/badge/GITHUB-0A0D0C?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/manojtarad65">
+<img src="https://img.shields.io/badge/LINKEDIN-0A0D0C?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+</a>
+<a href="mailto:manojtarad65@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0A0D0C?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/>
+</a>
+<a href="https://trodec.com">
+<img src="https://img.shields.io/badge/TRODEC-0A0D0C?style=for-the-badge&logo=rocket&logoColor=00FF9C" alt="Trodec"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ManojTarad65&style=flat-square&color=00FF9C&label=VISITORS" alt="Profile visitors"/>
+
+</div>
 
 ---
 
-<!-- 👀 VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManojTarad65&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+### `01 // BOOT SEQUENCE`
+
+```text
+┌──[manoj@the-build-lab]─[~]
+│
+├─$ whoami
+│  full-stack developer
+│  product-first engineer
+│  dangerously curious
+│
+├─$ cat /etc/mindset
+│  > think beyond the obvious
+│  > build instead of imagine
+│  > debug until it works
+│
+└─$ echo $MISSION
+   Turn "what if?" into working software.
+```
+
+I'm a full-stack developer interested in building real products, engineering backend systems, connecting APIs, and exploring ideas beyond ordinary tutorial projects.
+
+**Currently building:** [TRODEC ↗](https://trodec.com)
 
 ---
 
-<!-- 🏢 BRAND -->
-<p align="center">
-  <img src="https://togeno.com/public/logo.png" height="90"/>
-</p>
+### `02 // PROJECTS IN THE LAB`
 
-<p align="center">
-  <b>Tech Lead @ TRODEC</b><br/>
-  🚀 <a href="https://trodec.com">Live Product</a>
-</p>
+<div align="center">
+
+<sub>FOUR BUILDS. DIFFERENT PROBLEMS. ONE ENGINEERING MINDSET.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-CORE_PRODUCT-00FF9C?style=flat-square&labelColor=080B0B" />
+
+### ⚡ TRODEC
+
+**`PRODUCT ENGINEERING / FULL STACK`**
+
+Building a real product with application workflows, user experiences, backend APIs, and integrations.
+
+- Product features and dashboards
+- Authentication and role-based access
+- API integrations and deployment
+
+[**↗ EXPLORE TRODEC**](https://trodec.com)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-MOBILE_PLATFORM-00D9FF?style=flat-square&labelColor=080B0B" />
+
+### 🛠️ WORKER PROJECT
+
+**`MOBILE APP / OPERATIONS`**
+
+A customer-worker platform for managing tasks, offers, assignments, and job workflows.
+
+- Customer and worker experiences
+- Task status and assignment flows
+- Admin panel and user management
+
+`REACT NATIVE` · `EXPO` · `NEXT.JS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/03-SOURCE_ARCHIVE-BB86FC?style=flat-square&labelColor=080B0B" />
+
+### 🧬 BLOOD RELATION
+
+**`PROJECT / SOURCE CODE`**
+
+A project from my repository collection. Explore the implementation and discover how it works.
+
+[**↗ INSPECT SOURCE**](https://github.com/ManojTarad65/Blood-relation)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/04-EV_AND_IOT-FF4567?style=flat-square&labelColor=080B0B" />
+
+### 🔋 BATTERY SWAPPING
+
+**`EV MOBILITY / IOT SYSTEMS`**
+
+An EV battery-swapping platform connecting rider experiences, station operations, and battery status.
+
+- Station discovery and battery availability
+- QR-based swapping workflows
+- Connectivity, slot status, and error handling
+
+`EV` · `MOBILE` · `IOT`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF9C" width="100%" />
+
+<code>[ END OF PROJECT INDEX ]</code> &nbsp; <code>// MORE BUILDS IN PROGRESS</code>
+
+</div>
 
 ---
 
-## 🧠 WHO AM I
+### `03 // INSTALLED TOOLCHAIN`
 
-```ts
-const manoj = {
-  role: "Full Stack Developer",
-  mindset: "Builder",
-  specialty: "Turning ideas into scalable products",
-  mission: "Build TRODEC into a global product 🚀",
-  email: "manojtarad65@gmail.com"
-};
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,linux,git&theme=dark" alt="Technology stack"/>
+
+</div>
+
+```yaml
+frontend:  React, Next.js, TypeScript
+backend:   Node.js, Express, REST APIs
+data:      PostgreSQL, MongoDB
+infra:     Docker, AWS, Linux, Git
 ```
 
 ---
 
-## ⚙️ TECH STACK
+### `04 // DEVELOPER TELEMETRY`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,cpp,git,github" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManojTarad65&show_icons=true&hide_border=true&bg_color=080B0B&title_color=00FF9C&icon_color=00D9FF&text_color=D8E5E0&theme=transparent" alt="GitHub statistics"/><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojTarad65&hide_border=true&background=080B0B&ring=00FF9C&fire=FF4567&currStreakLabel=00FF9C&sideLabels=D8E5E0&dates=7D8590" alt="GitHub streak"/>
 
-## 🚀 FEATURED PROJECTS
+<br/>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=Blood-relation&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manojtarad65&repo=Build-Togeno&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojTarad65&bg_color=080B0B&color=D8E5E0&line=00FF9C&point=00D9FF&area=true&hide_border=true" alt="Contribution activity graph"/>
 
----
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojtarad65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojtarad65&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
-</p>
+</div>
 
 ---
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF9C" width="100%" />
 
+<br/>
 
-## 🌐 CONNECT
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+echo+%22MAKE+THE+IMPOSSIBLE+COMPILE%22;WARNING%3A+IDEAS+MAY+TURN+INTO+REPOSITORIES.;END+OF+TRANSMISSION+%2F%2F+BACK+TO+BUILDING." />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manoj-tarad-0b779625a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  <a href="https://leetcode.com/manojtarad65">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
-  </a>
-</p>
+<br/>
 
----
+**I don't want to look like a developer. I want to build things worth looking at.**
 
-## 🧠 PHILOSOPHY
+<br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<sub>Curiosity is the exploit. Engineering is the execution.</sub>
 
----
+<br/><br/>
 
-## 🔥 CURRENT FOCUS
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00FF9C,50:06221D,100:050505" />
 
-- 🚀 Scaling **TRODEC**
-- ⚙️ Backend & System Design
-- ⚡ Shipping fast & iterating
-- 💼 Thinking like a startup founder
-
----
-
-## 💀 DEV ENVIRONMENT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,postman,vercel,firebase" />
-</p>
-
----
-
-<!-- 🧊 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:000000&height=150&section=footer"/>
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>"I don't just code. I build things that matter."</b> ⚡
-</p>
-
+</div>
