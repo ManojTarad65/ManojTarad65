@@ -106,7 +106,7 @@ Building a real product with application workflows, user experiences, backend AP
 A customer-worker platform for managing tasks, offers, assignments, and job workflows.
 
 - Customer and worker experiences
-- Task status and assignment flows
+- Task status and assignment flows, Add Customize Task
 - Admin panel and user management
 
 `REACT NATIVE` · `EXPO` · `NEXT.JS`
@@ -138,7 +138,7 @@ A project from my repository collection. Explore the implementation and discover
 An EV battery-swapping platform connecting rider experiences, station operations, and battery status.
 
 - Station discovery and battery availability
-- QR-based swapping workflows
+- QR-based swapping workflows, Razorpay Integration
 - Connectivity, slot status, and error handling
 
 `EV` · `MOBILE` · `IOT`
