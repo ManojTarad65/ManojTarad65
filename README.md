@@ -89,7 +89,7 @@ I'm a full-stack developer interested in building real products, engineering bac
 Building a real product with application workflows, user experiences, backend APIs, and integrations.
 
 - Product features and dashboards
-- Authentication and role-based access
+- Authentication and role-based access, Razorpay Integration
 - API integrations and deployment
 
 [**↗ EXPLORE TRODEC**](https://trodec.com)
